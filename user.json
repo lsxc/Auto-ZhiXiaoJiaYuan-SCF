@@ -2,14 +2,14 @@
   {
     "enable": true,
     "alias": "张三",
-    "phone": "18888888888",
-    "password": "123456...",
-    "randomLocation": false,
+    "phone": "13183100311",
+    "password": "lsx20021002520",
     "deviceType": "Xiaomi|Mi 13|13",
-    "deviceId": "设备ID",
-    "address": "打卡地址",
-    "longitude": "位置经度",
-    "latitude": "位置纬度",
-    "pushKey": "推送Key"
+    "deviceId": "69b4909bb00e414f80407b7d8efef1094888",
+    "randomLocation": true,
+    "address": "新乡市原阳县大三李村",
+    "longitude": "114.23795288832795",
+    "latitude": "34.976593379927536",
+    "pushKey": "5fa4af531c1a46b9a3ab232fdb2bc08c"
   }
 ]
